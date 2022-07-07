@@ -8,5 +8,17 @@ public doProcess(){
 
 }
 
+public doProcess1(){
+// do some loic here.
+
+
+}
+
+public doProcess2(){
+// do some loic here.
+
+
+}
+
 
 }
