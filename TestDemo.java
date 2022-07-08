@@ -1,6 +1,6 @@
 public class TestDemo
 {
-int a=12;
+int b=12;
 
 public doProcess(){
 // do some loic here.
